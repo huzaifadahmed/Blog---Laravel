@@ -1,0 +1,1 @@
+components.featuredcard<?php /**PATH C:\Users\hdahmed\Desktop\Software Portfolio\Laravel\Practice\storage\framework\views/5782b4c59b3872d4dc8bd8aeaadc883673577f4b.blade.php ENDPATH**/ ?>
